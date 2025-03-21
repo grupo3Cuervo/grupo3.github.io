@@ -5,7 +5,7 @@
     <title>Chat with Light System</title>
     <link type="text/css" rel="stylesheet" href="css/styles.css" />
 </head>
-
+<!--a-->
 <body>
         
     <div id = 'border'>
@@ -17,7 +17,7 @@
             <div style="clear:both"></div>
         
         </div>
-
+    
         <div id="chatbox"></div>
 
         <form name="message" action="">
